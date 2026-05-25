@@ -17,7 +17,10 @@ Please consider that `Singularity` file is present in the following branches:
 * ipc2018-seq-opt
 
 - Download or copy `Singularity` file from repository
-- Build planner image by executing the following command: `sudo singularity build planner.img Singularity`
+- Build planner image by executing the following command: 
+```
+sudo singularity build planner.img Singularity
+```
 
 Once the planner.img file is created we can solve the snake problem
 
